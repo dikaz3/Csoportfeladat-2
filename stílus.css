@@ -19,3 +19,10 @@ p{
 a{
     color: aqua;
 }
+a{
+    text-decoration:none;
+    color:white;
+    padding:10px;
+    border-bottom:5px solid white;
+    margin:10px;
+}
